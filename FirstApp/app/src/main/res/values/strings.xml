@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name = "day03">세번째 시간</string>>
+    <string name="day3">세번째</string>
+    <string name="push">전화걸기</string>>
+    <string name="first">first</string>>
+    <string name="second">second</string>>
+</resources>
